@@ -1,5 +1,7 @@
 import openai
 import random
+import numpy 
+import pandas
 
 # Replace 'your-api-key' with your actual API key from OpenAI
 api_key = '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'
